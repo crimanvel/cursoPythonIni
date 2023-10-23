@@ -3,5 +3,7 @@
 numero1 = int(input("Dame el primero numero: "))
 numero2 = int(input("Dame el segundo numero: "))
 
-print("El primero numero es: ", numero1)
-print("El segundo numero es:", numero2)
+#print("El primero numero es: ", numero1)
+#print("El segundo numero es:", numero2)
+
+print("El primero es: ",numero1," y el segundo es: ",numero2)
